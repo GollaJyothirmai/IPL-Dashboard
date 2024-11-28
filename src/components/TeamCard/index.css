@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.team {
+  height: 210px;
+  width: 100%;
+  background-color: #ffffff33;
+  border-style: solid;
+  border-color: white;
+  border-radius: 10px;
+
+  font-family: bree serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+.name {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+.team-list {
+  height: 210px;
+  width: 400px;
+  margin-right: 8px;
+  background-color: transparent;
+}
